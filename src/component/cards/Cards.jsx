@@ -2,7 +2,6 @@ import { useEffect, useState } from 'react';
 import Card from '../card/card';
 
 const Cards = (props) => {
-    console.log(props);
     const [data,setData] = useState([]);
     useEffect(()=>
     {
