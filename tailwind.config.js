@@ -26,6 +26,7 @@ export default {
         "warning": "#ff5c00",
                 
         "error": "#c40038",
+          "ahsan" : "rgba(96, 71, 236, 0.10)",
         },
       },
     ],
