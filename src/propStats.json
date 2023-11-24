@@ -1,0 +1,20 @@
+[
+  {
+    "name": "props",
+    "Mutability": "Immutable (Read-only).",
+    "source": "Received from parent component.",
+    "Ownership": "Owned by the parent component.",
+    "Modification": "Cannot be modified by the component itself.",
+    "Initialization": "Passed down from parent component during component creation.\t",
+    "Purpose": "For communication between components and to make components more dynamic.\t"
+  },
+  {
+    "name": "state",
+    "Mutability": "Mutable (Can be changed using setState).",
+    "source": "Managed within the component.",
+    "Ownership": "Owned and controlled by the component itself.",
+    "Modification": "Can be modified using setState method.",
+    "Initialization": "Initialized within the component's constructor or through useState.",
+    "Purpose": "For managing component-specific dynamic behavior and UI state."
+  }
+]
