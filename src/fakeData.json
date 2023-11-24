@@ -1,0 +1,68 @@
+[
+    {
+        "ID": "blog1",
+        "authorName": "Ahsanul Hoque",
+        "blogTitle": "Emerging Tech Trends: Navigating the Digital Frontier",
+        "image": "",
+        "blogCover": "https://images.unsplash.com/photo-1531482615713-2afd69097998?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "authorImage": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "readTime": 5,
+        "publishDate": "Oct 14 (8 Days ago)",
+        "tag": "#tech #trending"
+    },
+    {
+        "ID": "blog2",
+        "authorName": "Sadman Ahmed",
+        "blogTitle": "The Rise of Artificial Intelligence: Transforming Industries",
+        "image": "",
+        "blogCover": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "authorImage": "https://images.unsplash.com/photo-1500048993953-d23a436266cf?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "readTime": 8,
+        "publishDate": "Oct 21 (1 Days ago)",
+        "tag": "#rise #trending #ai"
+    },
+    {
+        "ID": "blog3",
+        "authorName": "Tanvir Shams",
+        "blogTitle": "Blockchain Beyond Bitcoin: Exploring its Potential",
+        "image": "",
+        "blogCover": "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=2002&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "authorImage": "https://images.unsplash.com/photo-1555952517-2e8e729e0b44?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "readTime": 12,
+        "publishDate": "Oct 16 (6 Days ago)",
+        "tag": "#blockChain  #bitcoin"
+    },
+    {
+        "ID": "blog4",
+        "authorName": "Fatin Nur",
+        "blogTitle": "Space Tech Breakthroughs: Pushing the Boundaries of Exploration",
+        "image": "",
+        "blogCover": "https://images.unsplash.com/photo-1526666923127-b2970f64b422?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "authorImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "readTime": 7,
+        "publishDate": "Oct 20 (2 Days ago)",
+        "tag": "#tech #trending #space"
+    },
+    {
+        "ID": "blog5",
+        "authorName": "Mehedi Hasan",
+        "blogTitle": "The Quantum Revolution: A Quantum Leap in Computing",
+        "image": "",
+        "blogCover": "https://images.unsplash.com/photo-1609705024873-7add858e3036?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "authorImage": "https://images.unsplash.com/photo-1607346256330-dee7af15f7c5?q=80&w=1812&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "readTime": 4,
+        "publishDate": "Oct 19 (3 Days ago)",
+        "tag": "#quantum #trending #digital"
+    },
+    {
+        "ID": "blog6",
+        "authorName": "Amanul Haque",
+        "blogTitle": "The Power of Big Data: Unlocking Insights for Businesses",
+        "image": "",
+        "blogCover": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=1934&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "authorImage": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "readTime": 15,
+        "publishDate": "Oct 17 (5 Days ago)",
+        "tag": "#power #trending"
+    }
+]
